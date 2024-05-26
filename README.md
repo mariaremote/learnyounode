@@ -24,4 +24,4 @@ My Solutions:
 |     12 | HTTP UPPERCASERER                 |                              |
 |     13 | HTTP JSON API SERVER              |                              |
 
-- additional exercises as alternative solutions
+\* additional exercises as alternative solutions
