@@ -21,7 +21,7 @@ My Solutions:
 | 9.2 \* | JUGGLING ASYNC (with Async Await) |    `juggling-async-await.js` |
 |     10 | TIME SERVER                       |             `time-server.js` |
 |     11 | HTTP FILE SERVER                  |        `http-file-server.js` |
-|     12 | HTTP UPPERCASERER                 |                              |
+|     12 | HTTP UPPERCASERER                 |       `http-uppercaserer.js` |
 |     13 | HTTP JSON API SERVER              |                              |
 
 \* additional exercises as alternative solutions
