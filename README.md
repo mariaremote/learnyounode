@@ -20,7 +20,7 @@ My Solutions:
 | 9.1 \* | JUGGLING ASYNC (with Promises)    | `juggling-async-promises.js` |
 | 9.2 \* | JUGGLING ASYNC (with Async Await) |    `juggling-async-await.js` |
 |     10 | TIME SERVER                       |             `time-server.js` |
-|     11 | HTTP FILE SERVER                  |                              |
+|     11 | HTTP FILE SERVER                  |        `http-file-server.js` |
 |     12 | HTTP UPPERCASERER                 |                              |
 |     13 | HTTP JSON API SERVER              |                              |
 
