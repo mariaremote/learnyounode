@@ -22,6 +22,6 @@ My Solutions:
 |     10 | TIME SERVER                       |             `time-server.js` |
 |     11 | HTTP FILE SERVER                  |        `http-file-server.js` |
 |     12 | HTTP UPPERCASERER                 |       `http-uppercaserer.js` |
-|     13 | HTTP JSON API SERVER              |                              |
+|     13 | HTTP JSON API SERVER              |    `http-json-api-server.js` |
 
 \* additional exercises as alternative solutions
